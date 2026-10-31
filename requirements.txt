@@ -1,0 +1,13 @@
+streamlit
+openai
+pytesseract
+PyMuPDF
+python-docx
+pdf2image
+Pillow
+chromadb
+langchain-text-splitters
+pandas
+sentence-transformers
+plotly
+json-repair
